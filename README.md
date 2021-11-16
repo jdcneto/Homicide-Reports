@@ -6,3 +6,6 @@ victim and perpetrator and weapon used.
 
 # Acknowledgements
 The data was compiled and made available by the Murder Accountability Project, founded by Thomas Hargrove.
+
+# Dataset Source   
+https://www.kaggle.com/murderaccountability/homicide-reports
